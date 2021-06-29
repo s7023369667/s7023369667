@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s7023369667 or Sam
 - 👀 I’m interested in all the challengs that have not yet occurred.
 - 🌱 I’m currently doing some projects.
-- 💞️ I’m looking to collaborate on MC2-Lab in NTNU.
+- 💞️ I’m working to collaborate on MC2-Lab in NTNU.
 - 📫 How to reach me s7023369667@gmail.com
 
 <!---
